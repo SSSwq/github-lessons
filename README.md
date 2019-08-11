@@ -1,1 +1,1 @@
-# github-lessons
+# github-lessons-glo
